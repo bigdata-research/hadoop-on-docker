@@ -1,0 +1,9 @@
+# hue/
+
+hadoop-base/**/*.tar.gz*
+
+zeppelin/**/*.tgz*
+
+yarn-nodemanager/hive/**/*.tar.gz*
+yarn-nodemanager/spark/**/*.tgz*
+yarn-nodemanager/tez/**/*.tar.gz*

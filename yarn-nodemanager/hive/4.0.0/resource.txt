@@ -1,0 +1,7 @@
+# https://archive.apache.org/dist
+
+https://archive.apache.org/dist/hive/KEYS 
+https://archive.apache.org/dist/hive/hive-4.0.0-beta-1/apache-hive-4.0.0-beta-1-bin.tar.gz
+https://archive.apache.org/dist/hive/hive-4.0.0-beta-1/apache-hive-4.0.0-beta-1-bin.tar.gz.asc
+https://archive.apache.org/dist/hive/hive-4.0.0-beta-1/apache-hive-4.0.0-beta-1-bin.tar.gz.sha256
+

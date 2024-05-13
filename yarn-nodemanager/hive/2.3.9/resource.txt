@@ -1,0 +1,6 @@
+# https://archive.apache.org/dist
+
+https://archive.apache.org/dist/hive/KEYS 
+https://archive.apache.org/dist/hive/stable-2/apache-hive-2.3.9-bin.tar.gz
+https://archive.apache.org/dist/hive/stable-2/apache-hive-2.3.9-bin.tar.gz.asc
+https://archive.apache.org/dist/hive/stable-2/apache-hive-2.3.9-bin.tar.gz.sha256

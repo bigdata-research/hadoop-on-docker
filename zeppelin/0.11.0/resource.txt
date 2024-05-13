@@ -1,0 +1,6 @@
+https://archive.apache.org/dist
+
+https://archive.apache.org/dist/zeppelin/KEYS
+https://archive.apache.org/dist/zeppelin/zeppelin-0.11.0/zeppelin-0.11.0-bin-all.tgz 843 MB
+https://archive.apache.org/dist/zeppelin/zeppelin-0.11.0/zeppelin-0.11.0-bin-all.tgz.asc
+https://archive.apache.org/dist/zeppelin/zeppelin-0.11.0/zeppelin-0.11.0-bin-all.tgz.sha512

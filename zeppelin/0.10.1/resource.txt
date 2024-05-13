@@ -1,0 +1,7 @@
+https://archive.apache.org/dist
+
+
+https://archive.apache.org/dist/zeppelin/KEYS
+https://archive.apache.org/dist/zeppelin/zeppelin-0.10.1/zeppelin-0.10.1-bin-all.tgz 
+https://archive.apache.org/dist/zeppelin/zeppelin-0.10.1/zeppelin-0.10.1-bin-all.tgz.asc
+https://archive.apache.org/dist/zeppelin/zeppelin-0.10.1/zeppelin-0.10.1-bin-all.tgz.sha512

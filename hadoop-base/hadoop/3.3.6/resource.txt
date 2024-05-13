@@ -1,0 +1,5 @@
+# https://archive.apache.org/dist
+
+https://archive.apache.org/dist/hadoop/common/stable/hadoop-3.3.6.tar.gz 
+https://archive.apache.org/dist/hadoop/common/hadoop-3.3.6/hadoop-3.3.6.tar.gz.asc
+https://archive.apache.org/dist/hadoop/common/hadoop-3.3.6/hadoop-3.3.6.tar.gz.sha512
